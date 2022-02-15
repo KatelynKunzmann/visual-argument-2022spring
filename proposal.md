@@ -17,3 +17,25 @@ I picked out a few assets already from the Noun Project and placed them in an As
 |Inflation text| Me|
 |Dollar graphic|CC license|
 |Inflation graph| CC license|
+
+<br>
+<br>
+<br>
+
+
+
+|**Possible fonts to use** | **Sourced From:** | **Font Family** |
+| --- | --- | --- |
+|Exo | Font Squirrel | Sans Serif |
+| Anonymous | Font Squirrel | Monospaced |
+| Envy Code | Font Squirrel | Monospaced |
+| Dited | Font Squirrel | Display |
+
+<br>
+<br>
+<br>
+
+**Ideas on how to alter image so as to incorporate deeper/alternate meaning within**
+* Ethereum logo sideways looks like the dollar
+* 
+
